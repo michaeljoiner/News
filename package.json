@@ -1,0 +1,16 @@
+{
+  "name": "paperboy",
+  "version": "1.0.0",
+  "description": "Cloud Function for fetching news articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "moment": "^2.27.0",
+    "newsapi": "^2.4.1"
+  }
+}
